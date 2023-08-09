@@ -1,0 +1,16 @@
+{
+  "name": "evaluacion_automatizacion",
+  "version": "1.0.0",
+  "description": "Evaluación SDET Jr",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "Francisco Rosario",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.3"
+  }
+}
